@@ -36,7 +36,7 @@ Mengenal Masalah Keamanaan Di Windows 10
 NSA memberi tahu Microsoft tentang kelemahan keamanan Windows 10 utama | by Karinov.co.id
 ==================================================
 
-Badan Keamanan Nasional `(NSA) <https://www.wired.com/story/nsa-windows-10-vulnerability-disclosure/>`_, baru-baru ini memberi tahu Microsoft tentang kesalahan besar dalam sistem operasi `Windows 10 <https://dubidam.id/cara-mendapatkan-windows-10-gratis-dari-microsoft/>`_, miliknya yang dapat membuat peretas bertindak sebagai perusahaan perangkat lunak yang sah, kata pejabat lembaga itu, Selasa.
+Badan Keamanan Nasional `(NSA) <https://www.wired.com/story/nsa-windows-10-vulnerability-disclosure/>`_, baru-baru ini memberi tahu Microsoft tentang kesalahan besar dalam sistem operasiWindows 10 miliknya yang dapat membuat peretas bertindak sebagai perusahaan perangkat lunak yang sah, kata pejabat lembaga itu, Selasa.
 
 Microsoft ( MSFT ) mengeluarkan pembaruan perangkat lunak pada hari Selasa untuk memperbaiki kerentanan, sebagai bagian dari jadwal normal untuk merilis patch perangkat lunak.
 
