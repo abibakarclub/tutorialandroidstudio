@@ -79,4 +79,18 @@ Sementara penggemar Chrome dan kritik Microsoft akan merasa mudah untuk mengabai
 
 Tampaknya jika perlindungan pengguna Anda adalah salah satu prioritas Anda, jauh lebih masuk akal untuk menggunakan Edge daripada Chrome.
 
+Jangan terlalu pribadi. Ketika datang ke detail pribadi, sedikit berjalan jauh. Batasi hal-hal yang Anda bagikan untuk beberapa anekdot yang menurut pembaca Anda bisa diterima.
+
+Menulis halaman About Me Anda tidak harus menjadi tugas. Berbicara secara alami tentang diri Anda dan pengalaman Anda. Hanya menyertakan highlight dan beberapa detail pribadi yang menarik. Menulis dengan kekuatan dan kejelasan. Anda akan segera memiliki bio yang bisa Anda banggakan.
+
 Silahkan `Nss download untuk Windows 10 <https://en.freedownloadmanager.org/users-choice/Nss_Download_For_Windows_10.html>`_, 
+
+<https://aitarus.com/sholat-tahajud/>`_
+
+<https://belajarekonomi.com/>`_
+
+<https://belajarekonomi.com/kredit-tanpa-agunan-kta/>`_
+
+<https://aqiqah.albapesta.com/>`_
+
+<https://aqiqah.albapesta.com/blog/>`_
