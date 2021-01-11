@@ -86,7 +86,7 @@ Menulis halaman About Me Anda tidak harus menjadi tugas. Berbicara secara alami 
 Silahkan `Nss download untuk Windows 10 <https://en.freedownloadmanager.org/users-choice/Nss_Download_For_Windows_10.html>`_, 
 
 
-- `Cara Cholat Tahajud <https://aitarus.com/sholat-tahajud/>`_, 
+- `Cara Cholat Tahajud <https://suarapemerintah.id/>`_, 
 
 - `Belajar Ekonomi <https://belajarekonomi.com/>`_, 
 
