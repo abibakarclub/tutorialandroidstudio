@@ -85,8 +85,9 @@ Menulis halaman About Me Anda tidak harus menjadi tugas. Berbicara secara alami 
 
 Silahkan `Nss download untuk Windows 10 <https://en.freedownloadmanager.org/users-choice/Nss_Download_For_Windows_10.html>`_, 
 
+- `Suara Pemerintah <https://suarapemerintah.id/>`_, 
 
-- `Berita Pemerintah <https://suarapemerintah.id/>`_, 
+- `Kredit Tanpa Agunan <https://belajarekonomi.com/kredit-tanpa-agunan-kta/>`_, 
 
 - `Belajar Ekonomi <https://belajarekonomi.com/>`_, 
 
