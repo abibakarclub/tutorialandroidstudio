@@ -86,12 +86,12 @@ Menulis halaman About Me Anda tidak harus menjadi tugas. Berbicara secara alami 
 Silahkan `Nss download untuk Windows 10 <https://en.freedownloadmanager.org/users-choice/Nss_Download_For_Windows_10.html>`_, 
 
 
-- `Cara Cholat Tahajud <https://suarapemerintah.id/>`_, 
+- `Berita Pemerintah<https://suarapemerintah.id/>`_, 
 
 - `Belajar Ekonomi <https://belajarekonomi.com/>`_, 
 
 - `Kredit Tanpa Agunan <https://belajarekonomi.com/kredit-tanpa-agunan-kta/>`_, 
 
-- `Paket Aqiqah Murah <https://aqiqah.albapesta.com/>`_, 
+- `Paket Aqiqah Murah <https://dapuralba.com/>`_, 
 
-- `Apa Itu Aqiqah <https://aqiqah.albapesta.com/aqiqah/>`_, 
+- `Tutorial blog <https://sinagib.online/>`_, 
